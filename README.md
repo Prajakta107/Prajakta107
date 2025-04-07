@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi there, I'm Prajakta Wanjari!
 
+
+
 🎓 A passionate learner with a background in **Information Technology** (BE)  
 💼 Former Advisor at **Reliance Jio** | Actively preparing for a career in **Full Stack & Front-End Development**  
 🌱 I'm Currently learning : Java Fullstack Development
